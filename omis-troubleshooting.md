@@ -11,7 +11,7 @@
 docker@omis.wpd.woodportdoors.com
 ```
 - Any security dialogs concerning server's host key not cached can be accepted. (Click Yes)
-- Upon connecting to server with putty, enter password (ie r4k****)
+- Upon connecting to server with putty, enter password (standard r password)
 
 #### COMMANDS TO FOLLOW TO RESTART ALL OMIS SERVICES
 ```
